@@ -1,5 +1,5 @@
 // -> I received a complaint about my previous code having numerous bugs. Therefore, I have made several changes to enhance its readability and ensure it is error-free.
-
+//Tested, 101% working! <:D
 
 //Add this in your class
 Team = false;
